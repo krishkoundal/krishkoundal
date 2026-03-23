@@ -1,10 +1,10 @@
-# <p align="center">Hey 👋 I'm Krish Koundal</p>
+# Hey 👋 I'm Krish Koundal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?user=krishkoundal" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?user=krishkoundal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/krish-koundal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krish Koundal LinkedIn" /></a>
   <a href="mailto:krishkoundal16@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="krishkoundal16@gmail.com" /></a>
 </p>
@@ -38,5 +38,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkoundal&layout=compact&theme=radical" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkoundal&layout=compact&theme=radical" alt="Language Stats" width="100%" />
 </p>
