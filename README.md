@@ -1,7 +1,7 @@
 # <p align="center">Hey 👋 I'm Krish Koundal</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=krishkoundal&label=Profile%20views&color=0e75b6&style=flat" alt="krishkoundal" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishkoundal%2Fkrishkoundal&count_bg=%230e75b6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 <p align="center">
