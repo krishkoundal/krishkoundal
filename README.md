@@ -1,7 +1,8 @@
 # Hey 👋 I'm Krish Koundal
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?user=krishkoundal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge" alt="Role" />
 </p>
 
 <p align="left">
