@@ -1,7 +1,7 @@
 # <p align="center">Hey 👋 I'm Krish Koundal</p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/krishkoundal/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?user=krishkoundal" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -31,14 +31,12 @@
 ---
 
 ### 🚀 About Me
-<div align="left">
 - 🔭 I’m currently working on exciting projects.
 - 🌱 I’m currently learning more about Software Development.
 - 💬 Ask me about anything related to tech!
-</div>
 
 <br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W5786IACHp/giphy.gif" alt="Coding GIF" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkoundal&layout=compact&theme=radical" alt="Top Languages" width="100%" />
 </p>
