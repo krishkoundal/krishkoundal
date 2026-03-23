@@ -1,7 +1,7 @@
 # <p align="center">Hey 👋 I'm Krish Koundal</p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishkoundal%2Fkrishkoundal&count_bg=%230e75b6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/krishkoundal/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -31,12 +31,14 @@
 ---
 
 ### 🚀 About Me
+<div align="left">
 - 🔭 I’m currently working on exciting projects.
 - 🌱 I’m currently learning more about Software Development.
 - 💬 Ask me about anything related to tech!
+</div>
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/code.gif" alt="Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eHJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W5786IACHp/giphy.gif" alt="Coding GIF" width="100%" />
 </p>
