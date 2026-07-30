@@ -1,0 +1,30 @@
+[
+  {
+    "name": "EvoCode AI",
+    "repo": "krishkoundal/evocode-ai",
+    "logo": "logo.png",
+    "description": "An AI-powered system that continuously analyzes, improves, validates, and learns from code — simulating self-improving intelligent software.",
+    "tags": ["Python", "AI", "Agents"]
+  },
+  {
+    "name": "Moodify",
+    "repo": "krishkoundal/moodify",
+    "logo": "logo.png",
+    "description": "A full-stack music discovery platform using AI facial expression mood detection and Next.js 15.",
+    "tags": ["NextJS", "React", "Tailwind"]
+  },
+  {
+    "name": "NEET PYQ Maker",
+    "repo": "krishkoundal/neet-pyq-maker",
+    "logo": "logo.png",
+    "description": "A platform for generating previous year question papers for NEET exam preparation.",
+    "tags": ["React", "NodeJS", "Express"]
+  },
+  {
+    "name": "Riko AI",
+    "repo": "krishkoundal/riko-ai",
+    "logo": "logo.png",
+    "description": "A sophisticated AI assistant to enhance developer workflows.",
+    "tags": ["React", "Python", "AI"]
+  }
+]
